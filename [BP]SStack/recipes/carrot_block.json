@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "sstack:carrot_block"
+      },
+      "tags": ["crafting_table"],
+      "pattern": [
+        "CCC",
+        "CCC",
+        "CCC"
+      ],
+      "key": {
+        "C": {
+          "item": "minecraft:carrot"
+        }
+      },
+      "result": {
+        "item": "sstack:carrot_block",
+        "count": 1
+      }
+    }
+  }

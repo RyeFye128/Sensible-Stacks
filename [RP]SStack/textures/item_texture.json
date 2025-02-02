@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "SensibleStacks",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "sstack:carrat_block": {
+            "textures": "textures/blocks/carrot_block"
+        }
+    }
+}

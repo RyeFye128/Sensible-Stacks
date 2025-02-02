@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "3b0e0fe0-1573-48b2-9373-b21180a2763f",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 18, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "351af63a-93f8-4674-a2ef-b0573120ec19",
+      "version": [1, 0, 0]
+    }
+  ],
+   "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.15.0"
+  }
+  ]
+}
