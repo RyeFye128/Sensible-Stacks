@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "name": "pack.name",
-    "description": "pack.description",
+    "name": "Ryefye's Sensible Stacks",
+    "description": "This pack adds more options for storage in Minecraft by creating additional compaction blocks.",
     "uuid": "9c007ab8-1244-46fc-8458-8dde8ac41dcd",
     "version": [1, 0, 0],
     "min_engine_version": [1, 19, 0]
@@ -18,6 +18,10 @@
     {
       "module_name": "@minecraft/server",
       "version": "1.15.0"
+  },
+  {
+    "uuid": "3b0e0fe0-1573-48b2-9373-b21180a2763f",
+    "version": [1, 0, 0]
   }
   ]
 }

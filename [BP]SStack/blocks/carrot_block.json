@@ -10,16 +10,12 @@
       },
       "components": {
         "minecraft:geometry" : "geometry.full_block",
-        "culling": "sstack:cube",
         "minecraft:material_instances": {
-                "*": {
-                    "texture": "sstack:carrot_block",
-                    "render_method": "alpha_test",
-                    "face_dimming": false,
-                    "ambient_occlusion": false
-                }
-            },
-
+				"*": {
+					"texture": "carrot_block",
+					"render_method": "opaque"
+				}
+			}
     }
 }
 }

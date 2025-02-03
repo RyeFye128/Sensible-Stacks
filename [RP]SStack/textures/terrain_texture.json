@@ -1,8 +1,10 @@
 {
     "resource_pack_name": "SensibleStacks",
-    "texture_name": "atlas.items",
+    "texture_name": "atlas.terrain",
+    "padding": 8,
+    "num_mip_levels": 4,
     "texture_data": {
-        "sstack:carrot_block": {
+        "carrot_block": {
             "textures": "textures/blocks/carrot_block"
         }
     }

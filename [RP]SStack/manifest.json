@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "name": "pack.name",
-    "description": "pack.description",
+    "name": "Ryefye's Sensible Stacks RP",
+    "description": "The resources for the RyeFye's Sensible Stacks mod.",
     "uuid": "3b0e0fe0-1573-48b2-9373-b21180a2763f",
     "version": [1, 0, 0],
     "min_engine_version": [1, 18, 0]
